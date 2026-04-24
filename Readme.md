@@ -1,6 +1,6 @@
 # Visual EEG Simulation — Alpha and Gamma Rhythm Analysis
 
-**Repository:** [[https://github.com/LI-ZHAODONG/eeg_visual_simulation_lac](https://github.com/LI-ZHAODONG/eeg_visual_simulation_lac)](https://github.com/sananakther6642/eeg-visual-task-analysis.git)
+**Repository:** https://github.com/sananakther6642/eeg-visual-task-analysis.git
 
 Replication and validation of findings from:
 
